@@ -1,1 +1,1 @@
-[Перейти на сайт-визитку](https://your-website.com)
+[Перейти на сайт-визитку](https://github.com/ParfenovAV/CV)
